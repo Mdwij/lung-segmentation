@@ -25,7 +25,7 @@ The notebook assumes that you have a dataset of chest X-ray images available for
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/lung-segmentation.git
+   [git clone https://github.com/your-username/lung-segmentation.git](https://github.com/Mdwij/lung-segmentation.git)
    ```
 
 2. Navigate to the project directory:
